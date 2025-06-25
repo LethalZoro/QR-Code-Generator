@@ -30,7 +30,7 @@ _(Instructions on how to get this link are in the 'Deployment' section below)_
 
 ### 📸 Screenshot
 
-_(You can replace this with a screenshot of your own running application)_
+![alt text](image.png)
 
 ### 🛠️ Tech Stack
 
@@ -105,7 +105,3 @@ You can deploy this app for **free** using [Streamlit Community Cloud](https://s
 3. **Deploy**: Click the "New app" button, select your repository, and deploy.
 
 Streamlit will provide you with a URL (e.g., `https://your-app-name.streamlit.app`). You can then **replace the placeholder link at the top of this README** with your live app link!
-
-### 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
