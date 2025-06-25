@@ -101,4 +101,4 @@ with col2:
 
 # --- FOOTER ---
 st.markdown("---")
-st.markdown("Made with ❤️ by a Salik Labs Developer")
+st.markdown('Made with ❤️ by a [Salik Labs Developer](https://www.saliklabs.com/)')
